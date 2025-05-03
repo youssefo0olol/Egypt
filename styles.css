@@ -1,0 +1,31 @@
+p{
+  font-size: large;
+}
+
+a{
+  font-size: xx-large;
+}
+nav ul{
+background-color: sandybrown;
+border: 5px solid white;
+
+}
+body{
+  background-color: peachpuff;
+}
+nav ul li{
+  padding: 5px;
+  display: inline;
+}
+nav ul li a{
+  text-decoration: none;
+   color: olive;
+}
+.ac{
+  color: black;
+  font-size:xx-large;
+}
+img{
+  width: 500px;
+  height: 300px;
+}
